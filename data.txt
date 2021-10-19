@@ -1,0 +1,4 @@
+user | email@email.com | 1234Password
+user1 | youremail@email.com | 1234passWord
+this website | myemail@email.com | QU8uZx&0z(EBwN
+HI.com | myemail@email.com | hello
